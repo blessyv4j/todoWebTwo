@@ -1,0 +1,118 @@
+.container {
+    margin: auto;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  .content {
+    display: flex;
+    align-items: center;
+    margin-top: -24px;
+  }
+  .breakOne {
+    width: 170px;
+    margin-right: 16px;
+  }
+  .heading {
+    font-weight: bold;
+    font-size: 62px;
+  }
+  .breakTwo {
+    width: 170px;
+    margin-left: 30px;
+  }
+  .content-two{
+      display: flex;
+      justify-content: center;
+      margin-top: -10px;
+  }
+  .sub-text{
+      font-size: 32px;
+      margin-top: 10px;
+      opacity: 0.5;
+      margin-top: 5px;
+  }
+  .text-container{
+   border: 1px solid tomato;
+   border-radius: 8px;
+   width:440px;
+   height: 426px;
+   box-shadow: 10px 10px 10px lightgray;
+  }
+  .content-three{
+      display: flex;
+      justify-content: center;
+      margin: 40px 0px 56px 0px;
+  }
+  .sub-text-one{
+      margin: 40px 0px 16px 140px;
+      color: tomato;
+      font-size: 32px;
+  }
+  .breakThree{
+      margin-left: 140px;
+      color: gray;
+      border-style: solid;
+  }
+  .strike-text{
+      text-decoration: line-through;
+      margin-left: 134px;
+      margin-top: 46px;
+      margin-bottom: 8px;
+      font-size: 24px;
+      color:tomato;
+      font-weight: bold;
+  }
+  .form-two{
+      margin-left: 102px;
+      display: flex;
+      align-items: center;
+      font-size: 22px;
+      color: #191A19;
+  }
+  #checking{
+      width: 20px;
+      height:50px;
+      margin-left: 10px;
+      margin-right: 10px;
+  }
+  .add-button{
+      position: relative;
+      top: 30%;
+      left: 87%;
+  }
+  .blur {
+    filter: blur(6px);
+    -webkit-filter: blur(6px);
+  }
+  .dialog {
+    position: absolute;
+    width: 33%;
+    height: 33%;
+    top: 38.3%;
+    right: 32.7%;
+    background-color: white;
+    border: 1px solid tomato;
+    border-radius: 8px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    box-shadow: 10px 10px 10px lightgray;
+  }
+  .title {
+    color: tomato;
+    font-size: 22px;
+    margin-top: 32px;
+  }
+  .textfield{
+      width:300px;
+      height:40px;
+      border: 1px solid tomato;
+    border-radius: 8px;
+  }
+  .btn{
+      font-size: 24px;
+      margin-top: 20px;
+      background-color: tomato;
+      color: white;
+      border: 1px solid tomato;
+      border-radius: 20px;
+      padding: 6px 24px;
+  }

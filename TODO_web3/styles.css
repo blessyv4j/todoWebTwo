@@ -1,0 +1,103 @@
+.main-div {
+  margin: 90px 250px 0px 300px;
+  display: flex;
+  justify-content: flex-start;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.right-heading {
+  margin-left: 15px;
+  width: 24%;
+  font-size: 36px;
+  opacity: 0.5;
+}
+.right-margin {
+  margin-top: 76px;
+}
+.left-heading {
+  width: 76%;
+  font-size: 65px;
+  margin-bottom: 40px;
+}
+#lists {
+  opacity: 0.5;
+}
+.container {
+  width: 225px;
+  height: 350px;
+  border-radius: 8px;
+  border: 1px solid tomato;
+  box-shadow: 10px 10px 8px #d3d3d3;
+}
+.main-div2 {
+  margin: 0px 225px 120px 305px;
+  display: flex;
+  justify-content: space-between;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.container-heading {
+  margin-top: 30px;
+  margin-left: 40px;
+  margin-bottom: 15px;
+  font-size: 30px;
+  color: tomato;
+}
+.break {
+  margin-left: 40px;
+  margin-bottom: 40px;
+}
+.strike-text {
+  text-decoration: line-through;
+  text-align: right;
+  font-size: 24px;
+  color: red;
+  margin-right: 15px;
+  margin-bottom: 8px;
+}
+#for-check {
+  width: 20px;
+  height: 50px;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+.form-input {
+  display: flex;
+  align-items: center;
+  font-size: 22px;
+}
+.blur {
+  filter: blur(6px);
+  -webkit-filter: blur(6px);
+}
+.dialog {
+  position: absolute;
+  width: 33%;
+  height: 33%;
+  top: 38.3%;
+  right: 32.7%;
+  background-color: white;
+  border: 1px solid tomato;
+  border-radius: 8px;
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+  box-shadow: 10px 10px 10px lightgray;
+}
+.title {
+  color: tomato;
+  font-size: 22px;
+  margin-top: 32px;
+}
+.textfield{
+    width:300px;
+    height:40px;
+    border: 1px solid tomato;
+  border-radius: 8px;
+}
+.btn{
+    font-size: 24px;
+    margin-top: 20px;
+    background-color: tomato;
+    color: white;
+    border: 1px solid tomato;
+    border-radius: 20px;
+    padding: 6px 24px;
+}
